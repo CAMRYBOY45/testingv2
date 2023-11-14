@@ -7,11 +7,11 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'hiAxww5g',
 }
 
-global.namabot = "KodratBotWea"
-global.namaowner = ".NothingJustCiy"
+global.namabot = "KodratBotWa"
+global.namaowner = ".NothingJustCity"
 global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
